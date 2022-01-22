@@ -21,7 +21,7 @@ namespace Dev.Loja.Carros.Controllers
         {
             _context = context;
         }
-        //test 2
+        //test 3
         // GET: Carros
         public async Task<IActionResult> Index()
         {
